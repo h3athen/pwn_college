@@ -6,4 +6,4 @@
     gcc -o catflag catflag.c
     
 ### exploit run
-    (cat shellcode-raw;cat) | /babyshell_level1_teaching1
+    (cat shellcode-raw;cat) | /babyshell_level1_testing1
